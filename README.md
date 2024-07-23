@@ -1,2 +1,2 @@
-# swiftui-weather-app-ui
+# swiftui-weather-app
 Weather application UI demonstration using swift-ui.
